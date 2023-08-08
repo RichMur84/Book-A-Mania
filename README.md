@@ -43,10 +43,9 @@ Richard Murillo's README
 ## Screenshots
 📸
 
-![Alt text]()
-![Alt text]()
-![Alt text]()
-![Alt text]()
+![Alt text](<assets/Images/Sreeshot 1.png>)
+![Alt text](<assets/Images/Screenshot 2.png>)
+![Alt text](<assets/Images/Screenshot 3.png>)
 
 ## Technologies Used
 ✅
@@ -72,7 +71,7 @@ Richard Murillo's README
 
 🔌
 
-
+N/A
 
 ## Contribution Guidelines
 
