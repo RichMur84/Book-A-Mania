@@ -33,12 +33,14 @@ Richard Murillo's README
 ## Description
 👩🏻‍💻
 
-
+The Book search engine allow users to save book searches to their profile and view the books and their details. The application is built using Google Books API so that users can click a link that takes them to google books.
 
 ## Live URL
 📼
 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+https://book-a-mania-86ea4af226f5.herokuapp.com/
 
 ## Screenshots
 📸
